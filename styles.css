@@ -2,13 +2,13 @@
   font-family: 'PP Neue Montreal Book';
   font-style: normal;
   font-weight: normal;
-  src: local('PP Neue Montreal Book'), url('ppneuemontreal-book.woff') format('woff');
+  src: local('PP Neue Montreal Book'), url('./ppneuemontreal-book.woff') format('woff');
   }
   @font-face {
     font-family: 'PP Neue Montreal Medium';
     font-style: normal;
     font-weight: normal;
-    src: local('PP Neue Montreal Medium'), url('ppneuemontreal-medium.woff') format('woff');
+    src: local('PP Neue Montreal Medium'), url('./ppneuemontreal-medium.woff') format('woff');
     }
 
 * {

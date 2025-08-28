@@ -12,16 +12,16 @@ const config = {
 };
 
 const spotlightItems = [
-  {name: "Silent Arc", img: "/img_1.png"},
-  {name: "Motion Flare", img: "/img_2.png"},
-  {name: "Nebula Fold", img: "/img_3.png"},
-  {name: "KodakColor Peaks", img: "/img_4.png"},
-  {name: "Nature's Tickle", img: "/img_5.png"},
-  {name: "Abbrasive Floss", img: "/img_6.png"},
-  {name: "Dusk creeps", img: "/img_7.png"},
-  {name: "Rootsprout", img: "/img_8.png"},
-  {name: "Chromestock", img: "/img_9.png"},
-  {name: "Passionfruit", img: "/img_10.png"},
+  {name: "Silent Arc", img: "./img_1.png"},
+  {name: "Motion Flare", img: "./img_2.png"},
+  {name: "Nebula Fold", img: "./img_3.png"},
+  {name: "KodakColor Peaks", img: "./img_4.png"},
+  {name: "Nature's Tickle", img: "./img_5.png"},
+  {name: "Abbrasive Floss", img: "./img_6.png"},
+  {name: "Dusk creeps", img: "./img_7.png"},
+  {name: "Rootsprout", img: "./img_8.png"},
+  {name: "Chromestock", img: "./img_9.png"},
+  {name: "Passionfruit", img: "./img_10.png"},
 ];
 
 const lenis = new Lenis();
