@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background: #111;
+  color: white;
+}
+
+section {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.spotlight {
+  height: 100vh;
+  background: #222;
+  overflow: hidden;
+
+}
+
+/* .spotlight-titles {
+  transform: translateY(100%);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  font-size: 4rem;
+}
+ */
+
+
+.spotlight-titles {
+  display: flex;
+  flex-direction: column;
+  /* transform: translateY(100%); */
+  gap: 3rem;
+  font-size: 4rem;
+  opacity: 1;   /* keep visible for now */
+
+}
